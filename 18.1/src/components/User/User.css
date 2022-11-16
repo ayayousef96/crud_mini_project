@@ -1,0 +1,25 @@
+.userImg {
+    width: 2rem;
+    height: 2rem;
+  }
+  
+  .userCard {
+    border: 0.2rem solid rgb(9, 10, 9);
+    margin: 1rem;
+    text-align: center;
+    box-shadow: 0.3rem 0.3rem 0.5rem rgb(22, 26, 22);
+    border-radius: 0.4rem;
+    
+    
+  }
+  
+  .btn{
+    background-color: rgb(101, 165, 186);
+    border-radius: 0.3rem;
+    margin: 0.4rem;
+  }
+  
+  .userCard > input {
+    text-align: center;
+    font-size: 1.2rem;
+  }

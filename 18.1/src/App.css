@@ -1,0 +1,27 @@
+.users-display {
+  display: flex;
+  /* grid-template-columns: repeat(2, 1fr); */
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 1rem;
+ 
+}
+
+.app {
+  margin: 2rem;
+}
+
+.input-container {
+  text-align: center;
+  height: 5rem;
+  font-size: 1.4rem;
+}
+
+.input-container > input {
+  height: 2rem;
+  margin: 1rem;
+  width: 20rem;
+  border: 0.2rem solid black;
+  border-radius: 0.2rem;
+  text-align: center;
+}
